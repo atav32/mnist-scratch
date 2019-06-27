@@ -1,0 +1,3 @@
+tensorflow_tutorial (12 epochs): 0.9835
+keras_tutorial (12 epochs): 0.8228
+fashion_basic (12 epochs): 0.9176 training / 0.8806 eval
